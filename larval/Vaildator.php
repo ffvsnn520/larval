@@ -6,7 +6,7 @@
  * Time: 16:03
  */
 
-namespace App;
+namespace ffvsnn520;
 
 
 class Vaildator
