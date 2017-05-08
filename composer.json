@@ -1,6 +1,6 @@
 {
 "name": "app/vaildator",
-"description": "Assertions to validate method input/output with nice error messages.",
+"description": "",
 "keywords": ["assert", "check", "validate"],
 "license": "MIT",
 "authors": [
