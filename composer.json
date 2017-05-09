@@ -6,7 +6,7 @@
     "vaildator"
   ],
   "homepage": "https://github.com/ffvsnn520/larval",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "yearn"
@@ -20,7 +20,8 @@
   },
   "autoload": {
     "psr-4": {
-      "app\\": "src"
+      "app\\": "src",
+      "app\\tests\\": "tests"
     }
   },
   "minimum-stability": "stable"
