@@ -1,5 +1,5 @@
 <?php
-namespace ffvsnn520\tests;
+namespace app\tests;
 
 class TestCase extends \PHPUnit_Framework_TestCase
 {

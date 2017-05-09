@@ -2,7 +2,9 @@
   "name": "ffvsnn520/larval",
   "type": "library",
   "description": "",
-  "keywords": ["vaildator"],
+  "keywords": [
+    "vaildator"
+  ],
   "homepage": "https://github.com/ffvsnn520/larval",
   "license": "MIT",
   "authors": [
@@ -13,10 +15,13 @@
   "require": {
     "php": ">=5.4.0"
   },
-  "require-dev":{
-    "phpunit/phpunit":"dev-master"
+  "require-dev": {
+    "phpunit/phpunit": "dev-master"
   },
   "autoload": {
-    "psr-4": {"app\\": "src"}
-  }
+    "psr-4": {
+      "app\\": "src"
+    }
+  },
+  "minimum-stability": "stable"
 }

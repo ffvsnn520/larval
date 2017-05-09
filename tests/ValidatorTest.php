@@ -1,6 +1,6 @@
 <?php
-namespace ffvsnn520\tests;
-use ffvsnn520\Validator;
+namespace app\tests;
+use app\Validator;
 class ValidatorTest extends TestCase
 {
     public function testRequired()
