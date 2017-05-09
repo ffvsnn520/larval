@@ -1,0 +1,22 @@
+{
+  "name": "ffvsnn520/larval",
+  "type": "library",
+  "description": "",
+  "keywords": ["vaildator"],
+  "homepage": "https://github.com/ffvsnn520/larval",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "yearn"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "require-dev":{
+    "phpunit/phpunit":"dev-master"
+  },
+  "autoload": {
+    "psr-4": {"app\\": "src"}
+  }
+}
