@@ -6,7 +6,7 @@
  * Time: 16:03
  */
 
-namespace ffvsnn520;
+namespace app;
 
 
 /**
