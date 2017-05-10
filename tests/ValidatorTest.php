@@ -1,6 +1,6 @@
 <?php
-namespace app\tests;
-use app\Validator;
+namespace larval\tests;
+use larval\Validator;
 class ValidatorTest extends TestCase
 {
     public function testRequired()

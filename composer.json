@@ -20,8 +20,8 @@
   },
   "autoload": {
     "psr-4": {
-      "app\\": "src",
-      "app\\tests\\": "tests"
+      "larval\\": "src",
+      "larval\\tests\\": "tests"
     }
   },
   "minimum-stability": "stable"
